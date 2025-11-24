@@ -1,0 +1,165 @@
+[
+   
+   {
+        "nome": "Atlético Mineiro",
+        "estado": "Minas Gerais",
+        "descrição": "O Clube Atlético Mineiro, o Galo, é uma força de Minas Gerais, conhecido por sua torcida apaixonada, a Massa Atleticana. Com uma história de raça e viradas memoráveis, o clube ostenta títulos como a Libertadores e o Campeonato Brasileiro. Em sua casa, a Arena MRV, o Atlético transforma cada partida em uma demonstração de amor e luta.",
+        "ano": "1908",
+        "escudo": "escudos/atletico-mineiro.png",
+        "link": "https://pt.wikipedia.org/wiki/Clube_Atl%C3%A9tico_Mineiro"
+    },
+    {
+        "nome": "Bahia",
+        "estado": "Bahia",
+        "descrição": "O Esporte Clube Bahia, o Esquadrão de Aço, é um dos clubes mais tradicionais do Nordeste e pioneiro no futebol nacional, sendo o primeiro campeão brasileiro. Sua torcida vibrante e engajada lota a Arena Fonte Nova, celebrando uma história de glórias e forte representatividade popular que transcende o esporte.",
+        "ano": "1931",
+        "escudo": "escudos/bahia.png",
+        "link": "https://pt.wikipedia.org/wiki/Esporte_Clube_Bahia"
+    },
+    {
+        "nome": "Botafogo",
+        "estado": "Rio de Janeiro",
+        "descrição": "O Botafogo de Futebol e Regatas, a Estrela Solitária, é um dos clubes mais icônicos do Rio de Janeiro, berço de lendas como Garrincha. Sua torcida apaixonada e fiel apoia o time no Estádio Nilton Santos, celebrando uma história rica em tradição, glórias e um futebol que encanta gerações.",
+        "ano": "1904",
+        "escudo": "escudos/botafogo.png",
+        "link": "https://pt.wikipedia.org/wiki/Botafogo_de_Futebol_e_Regatas"
+    },
+    {
+        "nome": "Ceará",
+        "estado": "Ceará",
+        "descrição": "O Ceará Sporting Club, o Vozão, é uma das maiores forças do futebol nordestino, movido por uma torcida apaixonada que nunca para de cantar. Na Arena Castelão, o Alvinegro cearense exibe sua garra e tradição, representando com orgulho o estado e buscando sempre novas conquistas.",
+        "ano": "1914",
+        "escudo": "escudos/ceara.png",
+        "link": "https://pt.wikipedia.org/wiki/Cear%C3%A1_Sporting_Club"
+    },
+    {
+        "nome": "Corinthians",
+        "estado": "São Paulo",
+        "descrição": "O Sport Club Corinthians Paulista é movido por uma nação de fiéis torcedores, o 'Bando de Loucos'. Com uma história marcada pela superação, raça e títulos inesquecíveis como o Mundial de Clubes, o Timão faz da Neo Química Arena um verdadeiro caldeirão, onde a paixão e a entrega são inegociáveis.",
+        "ano": "1910",
+        "escudo": "escudos/corinthians.png",
+        "link": "https://pt.wikipedia.org/wiki/Sport_Club_Corinthians_Paulista"
+    },
+    {
+        "nome": "Cruzeiro",
+        "estado": "Minas Gerais",
+        "descrição": "O Cruzeiro Esporte Clube, a Raposa, é um gigante de Minas Gerais e do Brasil, com uma trajetória repleta de títulos importantes, incluindo duas Libertadores. Sua imensa torcida, a Nação Azul, empurra o time no Mineirão, celebrando uma história de craques e conquistas que marcam o futebol sul-americano.",
+        "ano": "1921",
+        "escudo": "escudos/cruzeiro.png",
+        "link": "https://pt.wikipedia.org/wiki/Cruzeiro_Esporte_Clube"
+    },
+    {
+        "nome": "Flamengo",
+        "estado": "Rio de Janeiro",
+        "descrição": "O Clube de Regatas do Flamengo possui a maior torcida do mundo, uma Nação Rubro-Negra que transforma o Maracanã em sua casa. Com uma história de glórias, ídolos eternos e títulos como Libertadores e Mundial, o Mengão é sinônimo de paixão, raça e um futebol que emociona milhões.",
+        "ano": "1895",
+        "escudo": "escudos/flamengo.png",
+        "link": "https://pt.wikipedia.org/wiki/Clube_de_Regatas_do_Flamengo"
+    },
+    {
+        "nome": "Fluminense",
+        "estado": "Rio de Janeiro",
+        "descrição": "O Fluminense Football Club, o Tricolor das Laranjeiras, é o berço do futebol brasileiro, conhecido por sua elegância e tradição. Com uma torcida que canta e apoia sem parar, o clube conquistou a América com um futebol envolvente, fazendo do Maracanã o palco de sua glória eterna e amor às três cores.",
+        "ano": "1902",
+        "escudo": "escudos/fluminense.png",
+        "link": "https://pt.wikipedia.org/wiki/Fluminense_Football_Club"
+    },
+    {
+        "nome": "Fortaleza",
+        "estado": "Ceará",
+        "descrição": "O Fortaleza Esporte Clube, o Leão do Pici, vive um momento de ascensão e protagonismo no cenário nacional e sul-americano. Empurrado por sua torcida vibrante na Arena Castelão, o Tricolor de Aço demonstra garra, organização e uma paixão que representa a força do futebol cearense.",
+        "ano": "1918",
+        "escudo": "escudos/fortaleza.png",
+        "link": "https://pt.wikipedia.org/wiki/Fortaleza_Esporte_Clube"
+    },
+    {
+        "nome": "Grêmio",
+        "estado": "Rio Grande do Sul",
+        "descrição": "O Grêmio Foot-Ball Porto Alegrense é o Imortal Tricolor, um clube marcado pela raça, pela garra e por uma história de grandes conquistas, como a Libertadores e o Mundial. Sua torcida apaixonada lota a Arena do Grêmio, vivendo intensamente cada jogo e honrando uma tradição de luta e glórias.",
+        "ano": "1903",
+        "escudo": "escudos/gremio.png",
+        "link": "https://pt.wikipedia.org/wiki/Gr%C3%AAmio_Foot-Ball_Porto_Alegrense"
+    },
+ 
+    {
+        "nome": "Internacional",
+        "estado": "Rio Grande do Sul",
+        "descrição": "O Sport Club Internacional é um dos gigantes do futebol gaúcho, marcado por sua paixão vibrante e conquistas históricas. Dono de uma torcida fiel, o Colorado coleciona títulos como Libertadores e Mundial, representando o orgulho do Rio Grande do Sul. No Beira-Rio, o Inter transforma cada jogo em um espetáculo de raça, tradição e alma vermelha.",
+        "ano": "1909",
+        "escudo": "escudos/internacional.png",
+        "link":"https://pt.wikipedia.org/wiki/Sport_Club_Internacional"
+    },
+     {
+        "nome": "Juventude",
+        "estado": "Rio Grande do Sul",
+        "descrição": "O Esporte Clube Juventude, de Caxias do Sul, é um símbolo de força e tradição na Serra Gaúcha. No estádio Alfredo Jaconi, o Papo mostra sua garra e o orgulho de sua comunidade, com uma história marcada por superação e a conquista da Copa do Brasil, representando a alma do interior gaúcho.",
+        "ano": "1913",
+        "escudo": "escudos/juventude.png",
+        "link": "https://pt.wikipedia.org/wiki/Esporte_Clube_Juventude"
+    },
+    {
+        "nome": "Mirassol",
+        "estado": "São Paulo",
+        "descrição": "O Mirassol Futebol Clube, o Leão da Alta Araraquarense, é um clube que vem se destacando no cenário paulista com organização e um futebol competitivo. No estádio Campos Maia, o time representa o orgulho de sua cidade, mostrando que a força do interior pode surpreender os gigantes do estado.",
+        "ano": "1925",
+        "escudo": "escudos/mirassol.png",
+        "link": "https://pt.wikipedia.org/wiki/Mirassol_Futebol_Clube"
+    },
+    {
+        "nome": "Palmeiras",
+        "estado": "São Paulo",
+        "descrição": "A Sociedade Esportiva Palmeiras é um dos clubes mais vitoriosos do Brasil, uma potência marcada por esquadrões históricos e uma coleção de títulos nacionais e internacionais. Sua torcida que canta e vibra empurra o Verdão no Allianz Parque, um palco de glórias para um clube que não para de crescer.",
+        "ano": "1914",
+        "escudo": "escudos/palmeiras.png",
+        "link": "https://pt.wikipedia.org/wiki/Sociedade_Esportiva_Palmeiras"
+    },
+    {
+        "nome": "Red Bull Bragantino",
+        "estado": "São Paulo",
+        "descrição": "O Red Bull Bragantino representa a nova força do futebol paulista e brasileiro, combinando juventude, intensidade e um projeto ambicioso. No estádio Nabi Abi Chedid, o Massa Bruta exibe um futebol moderno e ofensivo, buscando se consolidar entre os grandes e conquistar títulos importantes.",
+        "ano": "1928",
+        "escudo": "escudos/red-bull-bragantino.png",
+        "link": "https://pt.wikipedia.org/wiki/Red_Bull_Bragantino"
+    },
+    {
+        "nome": "Santos",
+        "estado": "São Paulo",
+        "descrição": "O Santos Futebol Clube é o time que revelou o Rei Pelé e encantou o mundo com seu futebol arte. Dono de uma história gloriosa, com títulos de Libertadores e Mundial, o Peixe transforma a Vila Belmiro em um alçapão, onde a tradição dos 'Meninos da Vila' se renova a cada geração.",
+        "ano": "1912",
+        "escudo": "escudos/santos.png",
+        "link": "https://pt.wikipedia.org/wiki/Santos_Futebol_Clube"
+    },
+    {
+        "nome": "São Paulo",
+        "estado": "São Paulo",
+        "descrição": "O São Paulo Futebol Clube é o 'Clube da Fé', um gigante do futebol brasileiro e mundial, dono de três títulos mundiais. Com uma história de soberania e grandes ídolos, o Tricolor do MorumBIS conta com uma torcida apaixonada que celebra um passado de glórias e apoia o time em busca de novas conquistas.",
+        "ano": "1930",
+        "escudo": "escudos/sao-paulo.png",
+        "link": "https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo_Futebol_Clube"
+    },
+    {
+        "nome": "Sport Recife",
+        "estado": "Pernambuco",
+        "descrição": "O Sport Club do Recife é o Leão da Ilha, um clube de massa com uma torcida apaixonada que faz da Ilha do Retiro um verdadeiro caldeirão. Campeão brasileiro de 1987, o Rubro-Negro pernambucano carrega a força e a tradição do futebol nordestino, jogando sempre com raça e o apoio de sua gente.",
+        "ano": "1905",
+        "escudo": "escudos/sport-recife.png",
+        "link": "https://pt.wikipedia.org/wiki/Sport_Club_do_Recife"
+    },
+    {
+        "nome": "Vasco da Gama",
+        "estado": "Rio de Janeiro",
+        "descrição": "O Club de Regatas Vasco da Gama é o Gigante da Colina, um clube com uma história pioneira de luta contra o preconceito e de glórias memoráveis, como a conquista da Libertadores. Em seu estádio histórico, São Januário, a torcida vascaína canta forte para empurrar o time, honrando a Cruz de Malta.",
+        "ano": "1898",
+        "escudo": "escudos/vasco-da-gama.png",
+        "link": "https://pt.wikipedia.org/wiki/Club_de_Regatas_Vasco_da_Gama"
+    },
+    {
+        "nome": "Vitória",
+        "estado": "Bahia",
+        "descrição": "O Esporte Clube Vitória, o Leão da Barra, é uma das grandes forças do futebol baiano e nordestino. Com uma torcida apaixonada que lota o Barradão, o Rubro-Negro baiano é conhecido por sua forte divisão de base e por um espírito de luta que inflama seus torcedores a cada partida.",
+        "ano": "1899",
+        "escudo": "escudos/vitoria.png",
+        "link": "https://pt.wikipedia.org/wiki/Esporte_Clube_Vit%C3%B3ria"
+    }
+
+]

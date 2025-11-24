@@ -1,0 +1,148 @@
+/* 
+  Folha de Estilo para a Base de Conhecimento - Brasileirão 2025
+  Adaptado para a estrutura do index.html fornecido.
+*/
+
+/* Variáveis de Cor */
+:root {
+  --cor-primaria: #009c3b;   /* Verde */
+  --cor-secundaria: #FFFFFF; /* Branco */
+  --cor-terciaria: #FFDF00;  /* Amarelo */
+  --cor-texto: #333333;      /* Cinza escuro para textos */
+  --cor-fundo-card: #f9f9f9; /* Cinza bem claro para fundo dos cards */
+}
+
+/* Estilos Gerais */
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: var(--cor-secundaria);
+  color: var(--cor-texto);
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+    flex-grow: 1; /* Faz o main crescer para ocupar o espaço disponível */
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+/* Cabeçalho */
+header {
+  background-color: var(--cor-primaria);
+  color: var(--cor-secundaria);
+  padding: 2rem 1rem;
+  text-align: center;
+  border-bottom: 7px solid var(--cor-terciaria);
+}
+
+header h1 {
+    margin: 0 0 1rem 0;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+header input[type="text"] {
+    padding: 10px;
+    width: 250px;
+    border: 1px solid var(--cor-secundaria);
+    border-radius: 5px 0 0 5px;
+    outline: none;
+}
+
+header button {
+    padding: 10px 20px;
+    background-color: var(--cor-terciaria);
+    color: var(--cor-texto);
+    border: 1px solid var(--cor-terciaria);
+    border-left: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+    font-weight: bold;
+    margin-left: -5px; /* Ajuste para unir o botão ao input */
+    transition: background-color 0.3s ease;
+}
+
+header button:hover {
+    background-color: #e6c600; /* Amarelo um pouco mais escuro */
+}
+
+/* Container dos Cards */
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 20px;
+}
+
+/* Estilo para um card individual (a ser criado via JS) */
+.card {
+    background: var(--cor-fundo-card);
+    border: 1px solid #ddd;
+    border-left: 5px solid var(--cor-primaria);
+    padding: 20px;
+    border-radius: 0 8px 8px 0;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    max-width: 250px;
+    width: 100%;
+    margin: 1rem;  /* Centraliza os cards se houver espaço sobrando no container */
+    overflow: hidden; /* Essencial para que a imagem não "vaze" das bordas arredondadas */
+    text-align: center; /* Centraliza o texto dentro do card */
+
+}
+
+.card img {
+    /* Faz a imagem ocupar 100% da largura do card */
+    width: 100%;
+
+    /* A altura se ajusta automaticamente para não distorcer a imagem */
+    height: auto;
+
+    /* Remove uma pequena margem que os navegadores às vezes adicionam em imagens */
+    display: block;
+
+    /* Adiciona uma transição suave para o efeito de hover */
+    transition: transform 0.3s ease-in-out;
+}
+
+.card h2 {
+    margin-top: 0;
+    color: var(--cor-primaria);
+}
+
+/* Efeito de hover: aumenta o card quando o mouse passa sobre ele */
+.card:hover {
+    transform: scale(1.05); /* Aumenta o card em 5% */
+    box-shadow: 0 4px 10px rgba(10, 151, 10, 0.349); /* Sombra mais pronunciada */
+}
+
+/* Rodapé */
+.footer {
+  background-color: var(--cor-primaria);
+  color: var(--cor-secundaria);
+  text-align: center;
+  padding: 1.5rem 0;
+  margin-top: 30px;
+}
+
+.footer-links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-links a {
+    color: var(--cor-secundaria);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.footer-links a:hover {
+    color: var(--cor-terciaria);
+    text-decoration: underline;
+}
